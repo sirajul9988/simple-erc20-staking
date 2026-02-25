@@ -1,0 +1,11 @@
+{
+  "name": "simple-erc20-staking",
+  "version": "1.0.0",
+  "description": "Minimalist and secure ERC20 staking smart contract",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "author": "Alex000115",
+  "license": "MIT"
+}
